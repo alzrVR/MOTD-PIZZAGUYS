@@ -1,2 +1,3 @@
-# MOTD-PIZZAGUYS
-motd for pizza guys
+Welcome To Pizza Guys!
+You Are Currently Beta Testing.
+Hope You Have Fun!
